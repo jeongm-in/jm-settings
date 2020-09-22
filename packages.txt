@@ -1,0 +1,21 @@
+# browsers
+googlechrome 
+firefox
+# Text editors / IDEs
+vscode
+# Development
+git.install
+nodejs.install
+jdk8
+python3
+# Media
+vlc
+steam
+# Chat
+slack
+# Utility
+crystaldiskinfo
+bandizip
+honeyview
+github-desktop
+wiztree
